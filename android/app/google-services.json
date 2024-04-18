@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281548009556",
+    "project_id": "loginosc-973f7",
+    "storage_bucket": "loginosc-973f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281548009556:android:9e94ee3bd0ccd4a8b7bdc1",
+        "android_client_info": {
+          "package_name": "com.example.login_osc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmoXZAUHI3CdfDTeHwS2m636BMkmPHpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
